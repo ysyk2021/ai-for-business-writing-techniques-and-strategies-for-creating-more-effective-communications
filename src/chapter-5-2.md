@@ -1,5 +1,3 @@
-Personalized Writing Style Recommendations and Interventions Using AI
-==================================================================================================================
 
 Effective communication in business requires not only clear and concise messaging but also an appropriate tone and voice that conveys the desired message effectively. In this chapter, we will discuss how AI can be used to improve tone and voice in written communications.
 

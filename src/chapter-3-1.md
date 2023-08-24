@@ -1,5 +1,3 @@
-Using AI for Communication Planning and Strategy Development
-===============================================================================================================================
 
 Effective communication planning and strategy are crucial for achieving business success. With the help of Artificial Intelligence (AI), it is now possible to use AI for communication planning and strategy development. In this chapter, we will explore how AI can be used to enhance communication planning and strategy.
 

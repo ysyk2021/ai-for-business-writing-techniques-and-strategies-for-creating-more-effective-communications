@@ -1,5 +1,3 @@
-Chapter 5: Improving Tone and Voice with AI
-===========================================
 
 In business writing, tone and voice are crucial components that can greatly impact the effectiveness of a communication. With the help of Artificial Intelligence (AI), it is now possible to analyze and improve tone and voice in business writing. In this chapter, we will explore how AI can be used to enhance tone and voice.
 

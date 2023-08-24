@@ -1,5 +1,3 @@
-Automated Language Simplification using AI
-================================================================================================
 
 In business writing, clarity and conciseness are essential for effective communication. With the help of Artificial Intelligence (AI), it is now possible to enhance clarity and conciseness by using automated language simplification using AI. In this chapter, we will explore how AI can be used to simplify language in business writing.
 
