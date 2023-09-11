@@ -1,5 +1,4 @@
-Chapter: Using AI for Communication Planning and Strategy Development
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
